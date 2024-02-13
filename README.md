@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Myself 
+- 🌱 I’m currently learning Quality Assurance Testing
+- 👯 I’m looking to collaborate on test
+
+- 
+
 <!--
 **aaratibhatt/aaratibhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
